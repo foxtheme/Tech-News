@@ -451,7 +451,7 @@ $(function () {
         var _0x8014xf = $(this),
             _0x8014x49 = $("#social-icons ul.social").clone();
         _0x8014x49.appendTo(_0x8014xf)
-        }, 1000);
+    
     $("#header-wrapper .headerify").each(function () {
         var _0x8014x12 = $(this);
         if (fixedMenu == true) {
